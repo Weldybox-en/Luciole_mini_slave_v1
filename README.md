@@ -1,6 +1,6 @@
 # Luciole_mini_slave_v1
 
-Luciole is an RGB controller controlled though WIFI. No need extra applications because the board carry a Webserver. Luciole has multiple operating mode in addition to the basics functionalities that you can find in a classic RGB controller. The goal with this board is to provide and very simple way to control RGB LED for a very low price.
+Luciole is an RGB controller controlled though WIFI. No need extra applications because the board carry a Webserver. Luciole has multiple operating mode in addition to the basics functionalities that you can find in a classic RGB controller. The goal with this board is to provide and very simple and lowcost to control RGB LED.
 
 The Luciole_mini_slave_v1 is simpler than the master one. In fact, it just need to wait for informations sent from the master and use them to command each LEDs.
 
